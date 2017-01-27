@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<project path="device/xiaomi/land" name="karthick111/android_device_xiaomi_land" remote="github" revision="cm-13.0" />
+<project path="kernel/xiaomi/msm8937" name="zwliew/android_kernel_xiaomi_msm8937" remote="github" revision="cm-13.0" />
+<project path="vendor/xiaomi" name="zwliew/proprietary_vendor_xiaomi" remote="github" revision="cm-13.0" />
+<project path="hardware/qcom/display-caf/msm8937" name="zwliew/android_hardware_qcom_display" remote="github" revision="cm-13.0-caf-8937" />
+</manifest>
